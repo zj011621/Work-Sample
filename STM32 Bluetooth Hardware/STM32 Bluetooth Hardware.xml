@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\KiCad Projects\STM32 Bluetooth Hardware\STM32 Bluetooth Hardware.kicad_sch</source>
+    <date>2025-03-25T13:02:05-0400</date>
+    <tool>Eeschema 9.0.0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>STM32 Bluetooth Hardware.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  0603YD475MAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  0603YD475MAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6693be23-5f36-45ed-a80a-8efbe959fac5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  0603YD475MAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  0603YD475MAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19865db1-66b3-4a8f-b8bb-8615ea77feaa</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>303c7fc9-e0a2-4010-9b64-6b7ecd182863</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76184f75-82f5-4ee9-85a0-c43794603d13</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88197e3e-9961-47b5-8d9f-fd3ec749b82e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  0603YD475MAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  0603YD475MAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a50dd4db-7f0a-489d-a653-06c747fe1abe</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6337c51-c46b-49c6-9b09-4b1cc9b3bfb0</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c43426b4-02ec-401a-a577-88dbc98295d9</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  0603YD475MAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  0603YD475MAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>351b0b0e-b9a4-432a-9c44-1ac3f5bc0657</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71d62e58-135b-4853-9a27-96598957274f</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f32033a1-7f1a-4984-a737-12bf346482ca</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c63a7592-3433-4f9a-af9a-cdc3d4fc8772</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/KGM05ACG1H100JN/11258418?s=N4IgTCBcDaIAwBY5gKwEECMc4Ck0BUE0QBdAXyA</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">KGM05ACG1H100JN</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/KGM05ACG1H100JN/11258418?s=N4IgTCBcDaIAwBY5gKwEECMc4Ck0BUE0QBdAXyA"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="KGM05ACG1H100JN"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dd5b6ed-3e7e-481a-9eab-cfb8588d1e9f</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ea0941c-d260-4f0e-b8d0-3f2e913f7957</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/KGM05ACG1H100JN/11258418?s=N4IgTCBcDaIAwBY5gKwEECMc4Ck0BUE0QBdAXyA</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">KGM05ACG1H100JN</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/KGM05ACG1H100JN/11258418?s=N4IgTCBcDaIAwBY5gKwEECMc4Ck0BUE0QBdAXyA"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="KGM05ACG1H100JN"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19a334f7-9cf6-48ff-87cb-d655036405ea</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  0603YD475MAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/0603YD475MAT2A/21729831?gclid=c8b9c0ad6f5e1b0d4311a7791dda65c8&amp;gclsrc=3p.ds&amp;&amp;utm_adgroup=Ceramic%20Capacitors&amp;utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Capacitors&amp;utm_term=&amp;utm_content=Ceramic%20Capacitors&amp;utm_id=bi_cmp-306009176_adg-1297423943446482_ad-81089044842044_pla-4584688617393801_dev-c_ext-_prd-21729831&amp;msclkid=c8b9c0ad6f5e1b0d4311a7791dda65c8"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  0603YD475MAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>670ef47c-3d65-459d-b2f5-6cc687701515</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0p8</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1HR80BA01D/3694062?s=N4IgTCBcDaIOYCcC2BGArBgxigFggHAAwBGAhoSgCYgC6AvkA</field>
+        <field name="Manufacturer">  Murata Electronics</field>
+        <field name="Manufacturer Part Number">GRM1555C1HR80BA01D</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1HR80BA01D/3694062?s=N4IgTCBcDaIOYCcC2BGArBgxigFggHAAwBGAhoSgCYgC6AvkA"/>
+      <property name="Manufacturer" value="  Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="GRM1555C1HR80BA01D"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58ea0f2f-dd42-489b-ae8b-c0c44729cc1a</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0p3</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/grm1555c1hr30wa01d/3694052</field>
+        <field name="Manufacturer">  Murata Electronics</field>
+        <field name="Manufacturer Part Number">  GRM1555C1HR30WA01D</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/grm1555c1hr30wa01d/3694052"/>
+      <property name="Manufacturer" value="  Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="  GRM1555C1HR30WA01D"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4885cc25-4cf3-43e7-8a0a-3e79de605895</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263</field>
+        <field name="Manufacturer">  KYOCERA AVX</field>
+        <field name="Manufacturer Part Number">  04026C104KAT2A</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/kyocera-avx/04026c104kat2a/2345263"/>
+      <property name="Manufacturer" value="  KYOCERA AVX"/>
+      <property name="Manufacturer Part Number" value="  04026C104KAT2A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f18545d-08e1-4879-a378-e550442fa652</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150040RS73240/8557156?s=N4IgTCBcDaIIwFYAMSAsSBKBlA7AZjHRAF0BfIA</field>
+        <field name="Manufacturer">  Würth Elektronik</field>
+        <field name="Manufacturer Part Number">  150040RS73240</field>
+        <field name="Footprint">LED_SMD:LED_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150040RS73240/8557156?s=N4IgTCBcDaIIwFYAMSAsSBKBlA7AZjHRAF0BfIA"/>
+      <property name="Manufacturer" value="  Würth Elektronik"/>
+      <property name="Manufacturer Part Number" value="  150040RS73240"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1162c157-4fc7-40d1-a8c7-d36ff43aae43</tstamps>
+    </comp>
+    <comp ref="FLT1">
+      <value>DLF162500LT-5028A1</value>
+      <footprint>STM32_BH_Footprints:DLF162500LT-5028A1</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_lpf_dlf162500lt-5028a1_en.pdf</datasheet>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/tdk-corporation/DLF162500LT-5028A1/4321991?s=N4IgTCBcDaICIBkBiBGAbGArABmwgKgLQ5gAcAgiiALoC%2BQA</field>
+        <field name="Manufacturer">  TDK Corporation</field>
+        <field name="Manufacturer Part Number">  DLF162500LT-5028A1</field>
+        <field name="Footprint">STM32_BH_Footprints:DLF162500LT-5028A1</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_lpf_dlf162500lt-5028a1_en.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="STM32_BH_SchematicSymbols" part="DLF162500LT-5028A1" description=""/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/tdk-corporation/DLF162500LT-5028A1/4321991?s=N4IgTCBcDaICIBkBiBGAbGArABmwgKgLQ5gAcAgiiALoC%2BQA"/>
+      <property name="Manufacturer" value="  TDK Corporation"/>
+      <property name="Manufacturer Part Number" value="  DLF162500LT-5028A1"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db550712-9a03-43ca-996d-e11f6821774e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0_16P</value>
+      <footprint>STM32_BH_Footprints:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <description>USB 2.0-only 16P Type-C Receptacle connector</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441</field>
+        <field name="Manufacturer">GCT</field>
+        <field name="Manufacturer Part Number"> USB4105-GF-A</field>
+        <field name="Footprint">STM32_BH_Footprints:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description">USB 2.0-only 16P Type-C Receptacle connector</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0_16P" description="USB 2.0-only 16P Type-C Receptacle connector"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441"/>
+      <property name="Manufacturer" value="GCT"/>
+      <property name="Manufacturer Part Number" value=" USB4105-GF-A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf05e46b-054d-43fb-8cdb-bc43aa62ccb6</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal</footprint>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/molex/0530480410/242866</field>
+        <field name="Manufacturer">Molex</field>
+        <field name="Manufacturer Part Number">0530480410</field>
+        <field name="Footprint">Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/molex/0530480410/242866"/>
+      <property name="Manufacturer" value="Molex"/>
+      <property name="Manufacturer Part Number" value="0530480410"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>504aa541-126f-4a6a-a20b-9cf7626e8b02</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/u-fl-r-smt-01/513010</field>
+        <field name="Manufacturer">  Hirose Electric Co Ltd</field>
+        <field name="Manufacturer Part Number">  U.FL-R-SMT(01)</field>
+        <field name="Footprint">Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/u-fl-r-smt-01/513010"/>
+      <property name="Manufacturer" value="  Hirose Electric Co Ltd"/>
+      <property name="Manufacturer Part Number" value="  U.FL-R-SMT(01)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3267c68e-e86a-4285-a75b-f8f6f9655fc5</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/lqg15wz10nj02d/6798669</field>
+        <field name="Manufacturer">r Murata Electronics</field>
+        <field name="Manufacturer Part Number">  LQG15WZ10NJ02D</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/lqg15wz10nj02d/6798669"/>
+      <property name="Manufacturer" value="r Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="  LQG15WZ10NJ02D"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4ffcb41-2b11-4165-87ae-8d2f6ad5f26b</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>10u</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/LQM21FN100M80L/3845879</field>
+        <field name="Manufacturer">  Murata Electronics</field>
+        <field name="Manufacturer Part Number">  LQM21FN100M80L</field>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/LQM21FN100M80L/3845879"/>
+      <property name="Manufacturer" value="  Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="  LQM21FN100M80L"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bcc49fb-a7f1-4872-bb76-c09ac266f198</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>2n7</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/murata-electronics/LQG15HS2N7S02D/662864?s=N4IgTCBcDaIDYEcDmBGArACwM5gHYHYsAGCAXQF8g</field>
+        <field name="Manufacturer">  Murata Electronics</field>
+        <field name="Manufacturer Part Number">  LQG15HS2N7S02D</field>
+        <field name="Footprint">Inductor_SMD:L_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/murata-electronics/LQG15HS2N7S02D/662864?s=N4IgTCBcDaIDYEcDmBGArACwM5gHYHYsAGCAXQF8g"/>
+      <property name="Manufacturer" value="  Murata Electronics"/>
+      <property name="Manufacturer Part Number" value="  LQG15HS2N7S02D"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb16872e-22ec-455d-9142-0c97d6eec9b6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0603fr-075k1l/727268</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0603FR-075K1L</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0603fr-075k1l/727268"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0603FR-075K1L"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ee625f7-cc33-4e20-8e55-5c4172760996</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0603fr-075k1l/727268</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0603FR-075K1L</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0603fr-075k1l/727268"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0603FR-075K1L"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ee6ca5d-9b59-4b38-9da5-dd34904818d0</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0402FR-07221RL</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0402FR-07221RL"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cfa1c2b-523a-4209-8517-8edbf0939903</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0402FR-07221RL</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0402FR-07221RL"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49e900e2-78e8-41c4-9bb0-b63ab833987d</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0402FR-07221RL</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0402FR-07221RL"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b12b0d7-9a6a-4e5b-b25d-dc5b80746cab</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0603fr-075k1l/727268</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0603FR-075K1L</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0603fr-075k1l/727268"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0603FR-075K1L"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e13c6ed-b1d9-4e28-9d20-c636146de80b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>220R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610</field>
+        <field name="Manufacturer">  YAGEO</field>
+        <field name="Manufacturer Part Number">  RC0402FR-07221RL</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/yageo/rc0402fr-07221rl/2827610"/>
+      <property name="Manufacturer" value="  YAGEO"/>
+      <property name="Manufacturer Part Number" value="  RC0402FR-07221RL"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1331fe3e-f6ff-4d7a-8c63-5a6a2f3b2ede</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_SPST_CK_RS282G05A3</footprint>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/c-k/RS-282G05A3-SM-RT/2747190</field>
+        <field name="Manufacturer">  C&amp;K</field>
+        <field name="Manufacturer Part Number">  RS-282G05A3-SM RT</field>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_CK_RS282G05A3</field>
+        <field name="Datasheet"/>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/c-k/RS-282G05A3-SM-RT/2747190"/>
+      <property name="Manufacturer" value="  C&amp;K"/>
+      <property name="Manufacturer Part Number" value="  RS-282G05A3-SM RT"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26275349-a42b-477f-ab3a-2a1d369c7e5f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MIC5365-3.3YD5</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf</datasheet>
+      <description>150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23-5</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/microchip-technology/mic5365-3-3yd5-tr/3671879</field>
+        <field name="Manufacturer">  Microchip Technology</field>
+        <field name="Manufacturer Part Number">  MIC5365-3.3YD5-TR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf</field>
+        <field name="Description">150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23-5</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="MIC5365-3.3YD5" description="150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23-5"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/microchip-technology/mic5365-3-3yd5-tr/3671879"/>
+      <property name="Manufacturer" value="  Microchip Technology"/>
+      <property name="Manufacturer Part Number" value="  MIC5365-3.3YD5-TR"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="Micrel LDO voltage regulator"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6de63c78-c4eb-4697-a070-b9eefcbb8b74</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <fields>
+        <field name="Distributor Link">2sc6/16705896</field>
+        <field name="Manufacturer">  UMW</field>
+        <field name="Manufacturer Part Number">  USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="Distributor Link" value="2sc6/16705896"/>
+      <property name="Manufacturer" value="  UMW"/>
+      <property name="Manufacturer Part Number" value="  USBLC6-2SC6"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="usb ethernet video"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39443cf9-d504-4ab6-9d5d-335ae91352f3</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STM32WB55CEU6</value>
+      <footprint>Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf</datasheet>
+      <description>STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/stmicroelectronics/STM32WB55CEU6/9919555</field>
+        <field name="Manufacturer">  STMicroelectronics</field>
+        <field name="Manufacturer Part Number">STM32WB55CEU6</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48</field>
+      </fields>
+      <libsource lib="MCU_ST_STM32WB" part="STM32WB55CEUx" description="STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/stmicroelectronics/STM32WB55CEU6/9919555"/>
+      <property name="Manufacturer" value="  STMicroelectronics"/>
+      <property name="Manufacturer Part Number" value="STM32WB55CEU6"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="Arm Cortex-M4 STM32WB STM32WBx5"/>
+      <property name="ki_fp_filters" value="QFN*1EP*7x7mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d69e2e1f-e6f5-4441-b813-24dd89fc87a7</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>32kHz768</value>
+      <footprint>Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm</footprint>
+      <description>Two pin crystal</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/ndk-nihon-dempa-kogyo-co-ltd/STDMUB1-32-768K/4914433?s=N4IgTCBcDaIHYA8wAYCMYDOBDAtAZjADoB2ANgA4BrHDAFwBMcBbAVwCMdUQBdAXyA</field>
+        <field name="Manufacturer">  NDK (NIHON DEMPA KOGYO CO., LTD)</field>
+        <field name="Manufacturer Part Number">  STDMUB1-32.768K</field>
+        <field name="Footprint">Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Two pin crystal</field>
+      </fields>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/ndk-nihon-dempa-kogyo-co-ltd/STDMUB1-32-768K/4914433?s=N4IgTCBcDaIHYA8wAYCMYDOBDAtAZjADoB2ANgA4BrHDAFwBMcBbAVwCMdUQBdAXyA"/>
+      <property name="Manufacturer" value="  NDK (NIHON DEMPA KOGYO CO., LTD)"/>
+      <property name="Manufacturer Part Number" value="  STDMUB1-32.768K"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f0ea55e-f985-445b-9aa6-2a9b6d3bb7fb</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>32MHz</value>
+      <footprint>Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm</footprint>
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <fields>
+        <field name="Distributor Link">https://www.digikey.com/en/products/detail/ndk-nihon-dempa-kogyo-co-ltd/CS06465-32M/7645290?s=N4IgTCBcDaIHYA8wAYCMA2AzgQwLQGYwBbXAUwU2WTwGNL0AWdAVhAF0BfIA</field>
+        <field name="Manufacturer">  NDK (NIHON DEMPA KOGYO CO., LTD)</field>
+        <field name="Manufacturer Part Number">CS06465-32M</field>
+        <field name="Footprint">Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Distributor Link" value="https://www.digikey.com/en/products/detail/ndk-nihon-dempa-kogyo-co-ltd/CS06465-32M/7645290?s=N4IgTCBcDaIHYA8wAYCMA2AzgQwLQGYwBbXAUwU2WTwGNL0AWdAVhAF0BfIA"/>
+      <property name="Manufacturer" value="  NDK (NIHON DEMPA KOGYO CO., LTD)"/>
+      <property name="Manufacturer Part Number" value="CS06465-32M"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="STM32 Bluetooth Hardware.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e44a989e-c8de-4183-9579-b695ead8ff47</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_ARM_SWD_TagConnect_TC2030">
+      <description>Tag-Connect ARM Cortex SWD JTAG connector, 6 pin</description>
+      <docs>https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf</docs>
+      <footprints>
+        <fp>*TC2030*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_ARM_SWD_TagConnect_TC2030</field>
+        <field name="Footprint">Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical</field>
+        <field name="Datasheet">https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf</field>
+        <field name="Description">Tag-Connect ARM Cortex SWD JTAG connector, 6 pin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="SWDIO" type="bidirectional"/>
+        <pin num="3" name="~{RESET}" type="open_collector"/>
+        <pin num="4" name="SWCLK" type="output"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="SWO" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+        <fp>*UMRF*</fp>
+        <fp>*MCX*</fp>
+        <fp>*U.FL*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0_16P">
+      <description>USB 2.0-only 16P Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0_16P</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description">USB 2.0-only 16P Type-C Receptacle connector</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Two pin crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Inductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32WB" part="STM32WB55CEUx">
+      <description>STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32WB55CEUx</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 256KB RAM, 64 MHz, 1.71-3.6V, 30 GPIO, UFQFPN48</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC14" type="bidirectional"/>
+        <pin num="3" name="PC15" type="bidirectional"/>
+        <pin num="4" name="PH3" type="bidirectional"/>
+        <pin num="5" name="PB8" type="bidirectional"/>
+        <pin num="6" name="PB9" type="bidirectional"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VDDA" type="power_in"/>
+        <pin num="9" name="PA0" type="bidirectional"/>
+        <pin num="10" name="PA1" type="bidirectional"/>
+        <pin num="11" name="PA2" type="bidirectional"/>
+        <pin num="12" name="PA3" type="bidirectional"/>
+        <pin num="13" name="PA4" type="bidirectional"/>
+        <pin num="14" name="PA5" type="bidirectional"/>
+        <pin num="15" name="PA6" type="bidirectional"/>
+        <pin num="16" name="PA7" type="bidirectional"/>
+        <pin num="17" name="PA8" type="bidirectional"/>
+        <pin num="18" name="PA9" type="bidirectional"/>
+        <pin num="19" name="PB2" type="bidirectional"/>
+        <pin num="20" name="VDD" type="power_in"/>
+        <pin num="21" name="RF1" type="bidirectional"/>
+        <pin num="22" name="VSSRF" type="power_in"/>
+        <pin num="23" name="VDDRF" type="power_in"/>
+        <pin num="24" name="OSC_OUT" type="input"/>
+        <pin num="25" name="OSC_IN" type="input"/>
+        <pin num="26" name="AT0" type="no_connect"/>
+        <pin num="27" name="AT1" type="no_connect"/>
+        <pin num="28" name="PB0" type="bidirectional"/>
+        <pin num="29" name="PB1" type="bidirectional"/>
+        <pin num="30" name="PE4" type="bidirectional"/>
+        <pin num="31" name="VFBSMPS" type="input"/>
+        <pin num="32" name="VSSSMPS" type="power_in"/>
+        <pin num="33" name="VLXSMPS" type="power_in"/>
+        <pin num="34" name="VDDSMPS" type="power_in"/>
+        <pin num="35" name="VDD" type="power_in"/>
+        <pin num="36" name="PA10" type="bidirectional"/>
+        <pin num="37" name="PA11" type="bidirectional"/>
+        <pin num="38" name="PA12" type="bidirectional"/>
+        <pin num="39" name="PA13" type="bidirectional"/>
+        <pin num="40" name="VDDUSB" type="power_in"/>
+        <pin num="41" name="PA14" type="bidirectional"/>
+        <pin num="42" name="PA15" type="bidirectional"/>
+        <pin num="43" name="PB3" type="bidirectional"/>
+        <pin num="44" name="PB4" type="bidirectional"/>
+        <pin num="45" name="PB5" type="bidirectional"/>
+        <pin num="46" name="PB6" type="bidirectional"/>
+        <pin num="47" name="PB7" type="bidirectional"/>
+        <pin num="48" name="VDD" type="power_in"/>
+        <pin num="49" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Fiducial Marker</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="USBLC6-2SC6">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="MIC5365-3.3YD5">
+      <description>150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23-5</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MIC5365-3.3YD5</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf</field>
+        <field name="Description">150mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="STM32_BH_SchematicSymbols" part="DLF162500LT-5028A1">
+      <docs>https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_lpf_dlf162500lt-5028a1_en.pdf</docs>
+      <fields>
+        <field name="Reference">FLT</field>
+        <field name="Value">DLF162500LT-5028A1</field>
+        <field name="Footprint">STM32_BH_Footprints:DLF162500LT-5028A1</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/rf/rf/filter/catalog/rf_lpf_dlf162500lt-5028a1_en.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32WB">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/MCU_ST_STM32WB.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="STM32_BH_SchematicSymbols">
+      <uri>D:\KiCad Projects\STM32 Bluetooth Hardware/STM32_BH_SchematicSymbols.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V" class="PWR,Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U3" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U3" pin="20" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="23" pinfunction="VDDRF" pintype="power_in"/>
+      <node ref="U3" pin="34" pinfunction="VDDSMPS" pintype="power_in"/>
+      <node ref="U3" pin="35" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="40" pinfunction="VDDUSB" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V" class="PWR,Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="3" name="/BOOT0" class="Default">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="PH3" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/HSE_IN" class="Default">
+      <node ref="U3" pin="25" pinfunction="OSC_IN" pintype="input"/>
+      <node ref="X2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="5" name="/HSE_OUT" class="Default">
+      <node ref="U3" pin="24" pinfunction="OSC_OUT" pintype="input"/>
+      <node ref="X2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/LED_A" class="Default">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/LED_K" class="Default">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/LSE_IN" class="Default">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="PC14" pintype="bidirectional"/>
+      <node ref="X1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/LSE_OUT" class="Default">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="PC15" pintype="bidirectional"/>
+      <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/RF" class="RF,Default">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/RF_ANT" class="RF,Default">
+      <node ref="FLT1" pin="3" pinfunction="OUT" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="12" name="/RF_MATCH" class="RF,Default">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="FLT1" pin="1" pinfunction="IN" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/SMPSFB" class="SMPS,Default">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="VFBSMPS" pintype="input"/>
+    </net>
+    <net code="14" name="/SMPSLX" class="SMPS,Default">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="33" pinfunction="VLXSMPS" pintype="power_in"/>
+    </net>
+    <net code="15" name="/SMPSLXL" class="SMPS,Default">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="/SWD_CLK" class="SWD,Default">
+      <node ref="U3" pin="41" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/SWD_DIO" class="SWD,Default">
+      <node ref="U3" pin="39" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/SWD_NRST" class="SWD,Default">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="19" name="/SWD_TRC" class="SWD,Default">
+      <node ref="U3" pin="43" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/UART_RX" class="Default">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/UART_RXC" class="Default">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/UART_TX" class="Default">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/UART_TXC" class="Default">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="/USB_CC1" class="USB,Default">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="/USB_CC2" class="USB,Default">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="/USB_D+" class="USB,Default">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/USB_D-" class="USB,Default">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="GND" class="GND,Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="FLT1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="FLT1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U3" pin="32" pinfunction="VSSSMPS" pintype="power_in"/>
+      <node ref="U3" pin="49" pinfunction="VSS" pintype="power_in"/>
+      <node ref="X2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="X2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(R7-Pad2)" class="Default">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(J1-SBU1-PadA8)" class="Default">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J1-SBU2-PadB8)" class="Default">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U1-NC-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U3-AT0-Pad26)" class="Default">
+      <node ref="U3" pin="26" pinfunction="AT0" pintype="no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U3-AT1-Pad27)" class="Default">
+      <node ref="U3" pin="27" pinfunction="AT1" pintype="no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U3-PA0-Pad9)" class="Default">
+      <node ref="U3" pin="9" pinfunction="PA0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U3-PA1-Pad10)" class="Default">
+      <node ref="U3" pin="10" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U3-PA4-Pad13)" class="Default">
+      <node ref="U3" pin="13" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U3-PA5-Pad14)" class="Default">
+      <node ref="U3" pin="14" pinfunction="PA5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U3-PA6-Pad15)" class="Default">
+      <node ref="U3" pin="15" pinfunction="PA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U3-PA8-Pad17)" class="Default">
+      <node ref="U3" pin="17" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U3-PA9-Pad18)" class="Default">
+      <node ref="U3" pin="18" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U3-PA10-Pad36)" class="Default">
+      <node ref="U3" pin="36" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U3-PA15-Pad42)" class="Default">
+      <node ref="U3" pin="42" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U3-PB0-Pad28)" class="Default">
+      <node ref="U3" pin="28" pinfunction="PB0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-PB1-Pad29)" class="Default">
+      <node ref="U3" pin="29" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U3-PB2-Pad19)" class="Default">
+      <node ref="U3" pin="19" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-PB4-Pad44)" class="Default">
+      <node ref="U3" pin="44" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-PB5-Pad45)" class="Default">
+      <node ref="U3" pin="45" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U3-PB6-Pad46)" class="Default">
+      <node ref="U3" pin="46" pinfunction="PB6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U3-PB7-Pad47)" class="Default">
+      <node ref="U3" pin="47" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U3-PB8-Pad5)" class="Default">
+      <node ref="U3" pin="5" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U3-PB9-Pad6)" class="Default">
+      <node ref="U3" pin="6" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U3-PE4-Pad30)" class="Default">
+      <node ref="U3" pin="30" pinfunction="PE4" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
