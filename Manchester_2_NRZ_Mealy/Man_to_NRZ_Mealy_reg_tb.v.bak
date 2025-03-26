@@ -1,0 +1,42 @@
+	
+	
+	module Man_to_NRZ_Mealy_reg_tb ();
+	reg Man, clk;
+	wire NRZ_reg
+	wire probe_next_NRZ;
+	wire [1:0] probe_state, probe_next_state;
+	
+	Man_to_NRZ_Mealy_reg UUT (Man, NRZ_reg, clk);
+	assign probe_state = UUT.state;
+	assign probe_next_state = UUT.next_state;
+	assign probe_snext_NRZ = UUT.next_NRZ;
+	
+	initial
+	begin
+	clk = 1'b0;
+	forever
+		#5 clk = ~clk;
+	end
+	
+	initial
+	begin
+	Man = 1'b0;
+	#10 Man = 1'b1;
+	
+	#10 Man = 1'b1;
+	#10 Man = 1'b0;
+	
+	#10 Man = 1'b1;
+	#10 Man = 1'b0;
+	
+	#10 Man = 1'b0;
+	#10 Man = 1'b1;
+	
+	#10 Man = 1'b0;
+	#10 Man = 1'b1;
+	end
+	
+	initial
+	#100 $finish;
+	
+	endmodule
