@@ -1,0 +1,9 @@
+|Man_to_NRZ_Mealy_reg
+Man => next_state.s2.DATAB
+Man => Selector0.IN2
+Man => next_state.s1.DATAB
+NRZ_reg << NRZ_reg~reg0.DB_MAX_OUTPUT_PORT_TYPE
+clk => NRZ_reg~reg0.CLK
+clk => state~1.DATAIN
+
+
