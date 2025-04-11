@@ -1,0 +1,71 @@
+# Reading pref.tcl
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2021.2 win64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do Jerky_Counter_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Questa Intel Starter FPGA Edition-64 vmap 2021.2 Lib Mapping Utility 2021.04 Apr 14 2021
+# vmap work rtl_work 
+# Copying c:/users/zj011/documents/quartus_app/questa_fse/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/Quartus\ Projects/Jerky_Counter {D:/Quartus Projects/Jerky_Counter/Jerky_Counter.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 22:09:01 on Mar 26,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Quartus Projects/Jerky_Counter" D:/Quartus Projects/Jerky_Counter/Jerky_Counter.v 
+# -- Compiling module Jerky_Counter
+# 
+# Top level modules:
+# 	Jerky_Counter
+# End time: 22:09:01 on Mar 26,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/Quartus\ Projects/Jerky_Counter {D:/Quartus Projects/Jerky_Counter/Jerky_Counter_tb.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 22:09:01 on Mar 26,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Quartus Projects/Jerky_Counter" D:/Quartus Projects/Jerky_Counter/Jerky_Counter_tb.v 
+# -- Compiling module Jerky_Counter_tb
+# 
+# Top level modules:
+# 	Jerky_Counter_tb
+# End time: 22:09:02 on Mar 26,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  Jerky_Counter_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" Jerky_Counter_tb 
+# Start time: 22:09:02 on Mar 26,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.Jerky_Counter_tb(fast)
+# Loading work.Jerky_Counter(fast)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : D:/Quartus Projects/Jerky_Counter/Jerky_Counter_tb.v(33)
+#    Time: 300 ps  Iteration: 0  Instance: /Jerky_Counter_tb
+# 1
+# Break in Module Jerky_Counter_tb at D:/Quartus Projects/Jerky_Counter/Jerky_Counter_tb.v line 33
+# A bookmark named "bookmark0" has been added for window "Wave"
+# Causality operation skipped due to absence of debug database file
+# Bookmark "bookmark0" already exists with that definition in window "Wave", ignoring
+# Break key hit
+# End time: 22:15:18 on Mar 26,2025, Elapsed time: 0:06:16
+# Errors: 0, Warnings: 0

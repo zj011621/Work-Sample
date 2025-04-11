@@ -1,0 +1,36 @@
+
+
+	module Jerky_Counter (reset, enable, clk, count);
+	parameter counter_size = 5;
+	input reset, enable, clk;
+	output reg [counter_size-1, 0];
+	integer k = 0;
+	integer k_even = 0;
+	parameter [counter_size-1] reset_right = 1;
+	parameter [counter_size-1] reset_left = 2^(counter_size-1);
+	
+	always @ (posedge clk or negedge reset)
+		begin
+		if (~reset) begin count <= 0;
+								k <= 0;
+								k_even <= 0; end
+		else if (enable)
+			if (k > 2*counter_size-1) k = 0;
+			
+			if (k < 2*counter_size & k%2 == 0)
+				begin count <= reset_right;
+						k <= k+1;
+						k_even <= k_even+1; end
+			else if (k < 2*counter_size & k%2 == 1)
+				begin count <= 2^k_even;
+						k = k+1; end
+			else if (k > 2*counter_size-1 & k%2 == 0)
+				begin count <= reset_left;
+						k = k+1;
+						k_even = k_even-1; end
+			else if (k > 2*counter_size-1 & k%2 ==1)
+				begin count <= 2^k_even;
+						k <= k-1
+			else count <= 0;
+		end
+	endmodule

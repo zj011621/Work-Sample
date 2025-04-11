@@ -1,0 +1,22 @@
+
+
+	module Jerky_Counter_tb ();
+	parameter counter_size = 5;
+	reg reset, enable, clk;
+	wire [counter_size-1: 0] count;
+	
+	initial
+	begin
+		#300 $finish;
+		reset = 1'b1;
+		enable = 1'b1;
+		
+		clk = 1'b0;
+		forever
+			#10 clk = ~clk;
+	end
+	endmodule
+	
+		
+		
+	
