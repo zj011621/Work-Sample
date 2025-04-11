@@ -1,0 +1,40 @@
+|Jerky_Counter
+reset => k[0].PRESET
+reset => k[1].ACLR
+reset => k[2].ACLR
+reset => k[3].ACLR
+reset => k[4].ACLR
+reset => evens[0].PRESET
+reset => evens[1].ACLR
+reset => evens[2].ACLR
+reset => evens[3].ACLR
+reset => evens[4].ACLR
+reset => count[0]~reg0.PRESET
+reset => count[1]~reg0.ACLR
+reset => count[2]~reg0.ACLR
+reset => count[3]~reg0.ACLR
+reset => count[4]~reg0.ACLR
+enable => always0.IN1
+enable => always0.IN1
+clk => k[0].CLK
+clk => k[1].CLK
+clk => k[2].CLK
+clk => k[3].CLK
+clk => k[4].CLK
+clk => evens[0].CLK
+clk => evens[1].CLK
+clk => evens[2].CLK
+clk => evens[3].CLK
+clk => evens[4].CLK
+clk => count[0]~reg0.CLK
+clk => count[1]~reg0.CLK
+clk => count[2]~reg0.CLK
+clk => count[3]~reg0.CLK
+clk => count[4]~reg0.CLK
+count[0] <= count[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[1] <= count[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[2] <= count[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[3] <= count[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[4] <= count[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
