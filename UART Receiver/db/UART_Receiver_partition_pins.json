@@ -1,0 +1,261 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "RCV_datareg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg[7]",
+					"strict" : false
+				},
+				{
+					"name" : "read_not_ready_out",
+					"strict" : false
+				},
+				{
+					"name" : "Error1",
+					"strict" : false
+				},
+				{
+					"name" : "Error2",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_least[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_datareg_most[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_least[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RCV_shftreg_most[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_counter_display[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Bit_counter_display[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clr_Sample_counter",
+					"strict" : false
+				},
+				{
+					"name" : "inc_Sample_counter",
+					"strict" : false
+				},
+				{
+					"name" : "clr_Bit_counter",
+					"strict" : false
+				},
+				{
+					"name" : "inc_Bit_counter",
+					"strict" : false
+				},
+				{
+					"name" : "shift",
+					"strict" : false
+				},
+				{
+					"name" : "load",
+					"strict" : false
+				},
+				{
+					"name" : "read_not_ready_in",
+					"strict" : false
+				},
+				{
+					"name" : "Serial_in",
+					"strict" : false
+				},
+				{
+					"name" : "Sample_clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst_b",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

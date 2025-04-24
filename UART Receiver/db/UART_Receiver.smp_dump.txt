@@ -1,0 +1,6 @@
+
+State Machine - |UART_Receiver|Control_Unit:M0|state
+Name state.idle state.receiving state.starting 
+state.idle 0 0 0 
+state.starting 1 0 1 
+state.receiving 1 1 0 
