@@ -1,0 +1,25 @@
+
+
+	module UART_Receiver_tb();
+	
+	parameter word_size = 8, half_word = word_size/2;
+	parameter = Num_counter_bits = 4;
+	parameter Num_state_bits = 2;
+	
+	wire [word_size-1:0] RCV_datareg;
+	wire						read_not_ready_out;
+	wire						Error1, Error2;
+	
+	reg 						Serial_in;
+	reg						read_not_ready_in;
+	reg						Sample_clk;
+	reg						rst_b;
+	
+	UART_Receiver UUT (RCV_datareg,
+							 read_not_ready_out,
+							 Error1, Error2,
+							 Serial_in,
+							 ready_not_ready_in,
+							 Sample_clk,
+							 rst_b);
+	wire

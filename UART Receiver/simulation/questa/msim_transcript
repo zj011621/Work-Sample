@@ -1,0 +1,86 @@
+# Reading pref.tcl
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2021.2 win64 Apr 14 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do UART_Receiver_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Questa Intel Starter FPGA Edition-64 vmap 2021.2 Lib Mapping Utility 2021.04 Apr 14 2021
+# vmap work rtl_work 
+# Copying c:/users/zj011/documents/quartus_app/questa_fse/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/Quartus\ Projects/UART_Receiver {D:/Quartus Projects/UART_Receiver/UART_Receiver.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 12:06:45 on Apr 24,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Quartus Projects/UART_Receiver" D:/Quartus Projects/UART_Receiver/UART_Receiver.v 
+# -- Compiling module UART_Receiver
+# -- Compiling module Control_Unit
+# -- Compiling module DataPath_Unit
+# -- Compiling module SevSeg_display
+# 
+# Top level modules:
+# 	UART_Receiver
+# End time: 12:06:46 on Apr 24,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/Quartus\ Projects/UART_Receiver {D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v}
+# Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+# Start time: 12:06:46 on Apr 24,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/Quartus Projects/UART_Receiver" D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v 
+# -- Compiling module UART_Receiver_tb
+# 
+# Top level modules:
+# 	UART_Receiver_tb
+# End time: 12:06:46 on Apr 24,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  UART_Receiver_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" UART_Receiver_tb 
+# Start time: 12:06:46 on Apr 24,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vopt-143) Recognized 1 FSM in module "Control_Unit(fast)".
+# Loading work.UART_Receiver_tb(fast)
+# Loading work.UART_Receiver(fast)
+# Loading work.SevSeg_display(fast)
+# Loading work.Control_Unit(fast)
+# Loading work.DataPath_Unit(fast)
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (8) for port 'RCV_datareg_least'. The port definition is at: D:/Quartus Projects/UART_Receiver/UART_Receiver.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /UART_Receiver_tb/UUT File: D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (8) for port 'RCV_datareg_most'. The port definition is at: D:/Quartus Projects/UART_Receiver/UART_Receiver.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /UART_Receiver_tb/UUT File: D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (8) for port 'RCV_shftreg_least'. The port definition is at: D:/Quartus Projects/UART_Receiver/UART_Receiver.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /UART_Receiver_tb/UUT File: D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (8) for port 'RCV_shftreg_most'. The port definition is at: D:/Quartus Projects/UART_Receiver/UART_Receiver.v(12).
+#    Time: 0 ps  Iteration: 0  Instance: /UART_Receiver_tb/UUT File: D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (8) for port 'Sample_counter_display'. The port definition is at: D:/Quartus Projects/UART_Receiver/UART_Receiver.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /UART_Receiver_tb/UUT File: D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (8) for port 'Bit_counter_display'. The port definition is at: D:/Quartus Projects/UART_Receiver/UART_Receiver.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /UART_Receiver_tb/UUT File: D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v Line: 32
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v(140)
+#    Time: 5 ns  Iteration: 0  Instance: /UART_Receiver_tb
+# 1
+# Break in Module UART_Receiver_tb at D:/Quartus Projects/UART_Receiver/UART_Receiver_tb.v line 140
+# End time: 12:25:46 on Apr 24,2025, Elapsed time: 0:19:00
+# Errors: 0, Warnings: 6
